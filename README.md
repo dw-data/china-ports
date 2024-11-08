@@ -1,15 +1,23 @@
-# Gwadar port: Why China's BRI centerpiece is stalling
+# China's global port network
 
-China is financing ports all over the world. Pakistan's Gwadar port was meant to be a shining success. But almost two decades later, it still sits empty.  What does this tell us about China's BRI investments worldwide?
+China is financing ports all over the world. What does it mean for the countries it deals with, and for the rest of the world?
 
-*In this repository, you will find the methodology, data and code behind
-the story that came out of this analysis.*
+*In this repository, you will find the methodology, data and code behind two stories that came out of this analysis.*
 
-Read the full story on DW.com: [EN](https://www.dw.com/a-68992914) | [DE](https://www.dw.com/a-69044470)
+
+
+1. **DW.com: What Pakistan's Gwadar port shows about the Belt and Road Initiative**
+    <br>*Pakistan's Gwadar port was meant to be a shining success. But almost two decades later, it still sits empty.  What does this tell us about China's BRI investments worldwide?*
+    <br>Read the full story on DW.com: [EN](https://www.dw.com/a-68992914) | [DE](https://www.dw.com/a-69044470)
+2. **Mapped Out: China's Port Plan.**
+    <br>*Maritime shipping networks are crucial for world trade. As the world's top export nation, China has invested in ports across the globe. But access to sea routes is about more than just trade.*
+    <br>Watch the full video: [Youtube](https://www.youtube.com/)
+
 
 ## Datasets
 
-The file `Database.xlsx` contains the data our analysis is based on, as well as a complete list of sources used. Some important data sources are:
+These file `Database.xlsx` contains the data our analyses are based on, as well as a complete list of sources used.
+Some important data sources are:
 
 
 ## Data Sources
@@ -20,7 +28,11 @@ The file `Database.xlsx` contains the data our analysis is based on, as well as 
 - The [AEI China Global Investment Tracker](https://www.aei.org/china-global-investment-tracker/) was used to compare Chinese spending on BRI projects over time
 - The [World Bank International Debt Statistics](https://databank.worldbank.org/source/international-debt-statistics) were used to analyze external debt to China
 
-## Interviews
+Additionally, we refered to:
+- [Aiddata: Harboring Global Ambitions (2023)](https://www.aiddata.org/harboring-global-ambitions) for the locations of possible future Chinese military bases
+- [Quincy Institute Brief #16 (2021)](https://quincyinst.org/research/drawdown-improving-u-s-and-global-security-through-military-base-closures-abroad/#the-problem-of-us-military-bases-abroad) for a list of US military bases abroad
+
+## Interviews for article on DW.com
 
 - [Azeem Khalid](https://www.linkedin.com/in/azeemkhalid/), COMSATS University Islamabad
 - [Jacob Mardell](https://www.linkedin.com/in/jacob-mardell-124848131/overlay/contact-info/), n-ost, formerly Mercator Institute for China Studies
